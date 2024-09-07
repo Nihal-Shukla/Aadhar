@@ -1,0 +1,71 @@
+.container{
+    height: 300px;
+    width: 500px;
+    border: 3px solid black;
+    border-radius: 40px;
+    margin: 55px;
+
+    
+}
+
+.box1{
+    height: 120px;
+    width: 100px;
+    border: 1px solid black;
+    margin-top: 5px;
+    margin-left: 20px;
+    background-image: url(img.jpg);
+    background-size: cover;
+}
+hr{
+    height: 2px;
+    background-color: red;
+    margin-top: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+h2{
+    margin-top: 10px;
+    margin-left: 100px;
+    margin-bottom: 10px;
+}
+
+   
+
+.container1{
+    display: flex;
+}
+.symbol{
+    height: 50px;
+    width: 50px;
+    
+}
+
+.main{
+    display: flex;
+    
+}
+
+.box2{
+    height: 150px;
+    width: 200px;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+.box3{
+    height: 100px;
+    width: 100px;
+    
+    margin-top: 60px;
+    margin-left: 30px;
+}
+
+.number{
+    margin-left: 15px;
+    margin-top: 40px;
+}
+.dotted{
+    height: 2px;
+    width: 100vw;
+    background-color: black ;   
+}
